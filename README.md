@@ -1,6 +1,6 @@
 This project is an IMDb clone, a web application that aims to replicate the functionality and features of the popular Internet Movie Database (IMDb). It provides a comprehensive platform for users to browse, search, and discover information about movies, TV shows, actors, and more.
 
-##Key Features:
+## Key Features:
 
 Movie and TV Show Listings: Users can explore an extensive collection of movies and TV shows, including details such as ratings, genres, release dates, and plot summaries.
 Advanced Search Functionality: Users can search for specific movies, TV shows, actors, or genres, making it easy to find relevant content.
