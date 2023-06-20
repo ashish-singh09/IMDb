@@ -1,6 +1,6 @@
 export default function page() {
     return (
-        <div className="max-w-6xl mx-auto space-y-4">
+        <div className="max-w-6xl mx-auto space-y-4 p-4">
             <h1 className="text-2xl text-amber-600 font-medium">About</h1>
             <p>
                 This is a clone of the IMBd website. It was created using Next.js and Tailwind CSS.
