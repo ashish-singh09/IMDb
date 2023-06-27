@@ -11,7 +11,7 @@ This project is an IMDb clone, a web application that aims to replicate the func
 - User Ratings and Reviews: Users can watch release date, ratings and summary or plot of the movie.
 
 ## Learn More
-This IMDb clone project aims to provide an engaging and user-friendly interface, making it easy for movie enthusiasts to explore and engage with their favorite films and TV shows. It is built using [NextJS](https://nextjs.org/docs) and showcases the implementation of [APIs], [Tailwind Css](https://tailwindcss.com/docs/installation), [TMDb](https://developer.themoviedb.org/docs/getting-started) movie data. Feel free to explore the code and contribute to further enhancements of the project.
+This IMDb clone project aims to provide an engaging and user-friendly interface, making it easy for movie enthusiasts to explore and engage with their favorite films and TV shows. It is built using [NextJS](https://nextjs.org/docs) and showcases the implementation of APIs, [Tailwind Css](https://tailwindcss.com/docs/installation), [TMDb](https://developer.themoviedb.org/docs/getting-started) movie data.
 
 Feel free to customize and enhance this description based on the specific technologies, features, and unique aspects of your IMDb clone project.
 
